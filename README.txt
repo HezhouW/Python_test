@@ -1,2 +1,1 @@
-this is my test project!
-测试中文字体兼容
+学习Python过程中用到的测试实例
